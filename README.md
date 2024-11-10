@@ -39,3 +39,6 @@ To run BingeBox locally, follow these steps:
    cd BingeBox
 
 Feel free to customize any sections, especially the installation instructions and technologies used, to suit your project's specifics!
+## To run the project 
+   Run the command - cd Frontend/OTT1/
+                   - npm run dev 
