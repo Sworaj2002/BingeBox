@@ -24,7 +24,7 @@ BingeBox is organized into 4 main sections:
 
 #### 2.6 Profile
 - **Profile Edit**: Update your profile information.
-- 
+  
 ## Technologies Used
 - **Frontend**: React
 - **Backend**: Node.js
